@@ -1,10 +1,5 @@
-baseURL = 'http://localhost:65403/'
+baseURL = 'https://nisihaoren.github.io/nwesite/'
 languageCode = 'en-us'
-title = 'fuck'
+title = 'GOD'
 theme = 'ananke'
 publishDir="docs"
-[markup]
-defaultMarkdownHandler = "goldmark"
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true

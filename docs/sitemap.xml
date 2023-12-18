@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:65403/posts/first/</loc>
+    <loc>https://nisihaoren.github.io/nwesite/posts/first/</loc>
   </url><url>
-    <loc>http://localhost:65403/categories/</loc>
+    <loc>https://nisihaoren.github.io/nwesite/categories/</loc>
   </url><url>
-    <loc>http://localhost:65403/</loc>
+    <loc>https://nisihaoren.github.io/nwesite/</loc>
   </url><url>
-    <loc>http://localhost:65403/posts/</loc>
+    <loc>https://nisihaoren.github.io/nwesite/posts/</loc>
   </url><url>
-    <loc>http://localhost:65403/tags/</loc>
+    <loc>https://nisihaoren.github.io/nwesite/tags/</loc>
   </url>
 </urlset>
