@@ -1,0 +1,10 @@
+baseURL = 'http://localhost:65403/'
+languageCode = 'en-us'
+title = 'fuck'
+theme = 'ananke'
+publishDir="docs"
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true

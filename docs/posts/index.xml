@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on fuck</title>
+    <link>http://localhost:65403/posts/</link>
+    <description>Recent content in Posts on fuck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:65403/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:65403/posts/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:65403/posts/first/</guid>
+      <description>title: &amp;lsquo;hugo ananke 主题的应用及配置&amp;rsquo; author: &amp;lsquo;yangjh&amp;rsquo; date: &amp;lsquo;2023-12-12&amp;rsquo; draft: false featured_image: &#39;&amp;rsquo;&#xA;标题 啊实打实的教案设计大咖世界顶级那就拿出圣安东尼奥建设南大街那时的白哈巴是多少传达上级多能互补撒谎都不会收不回成本的大神级别等哈身边的环境巴萨黄金储备黄金</description>
+    </item>
+  </channel>
+</rss>
