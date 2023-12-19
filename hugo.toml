@@ -1,5 +1,10 @@
 baseURL = 'https://nisihaoren.github.io/nwesite/'
 languageCode = 'en-us'
-title = 'GOD'
+title = '阳光普照'
 theme = 'ananke'
 publishDir="docs"
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true

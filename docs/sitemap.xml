@@ -3,12 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nisihaoren.github.io/nwesite/posts/first/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nisihaoren.github.io/nwesite/posts/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nisihaoren.github.io/nwesite/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nisihaoren.github.io/nwesite/categories/</loc>
   </url><url>
-    <loc>https://nisihaoren.github.io/nwesite/</loc>
+    <loc>https://nisihaoren.github.io/nwesite/posts/seconed/</loc>
   </url><url>
-    <loc>https://nisihaoren.github.io/nwesite/posts/</loc>
+    <loc>https://nisihaoren.github.io/nwesite/about/</loc>
+  </url><url>
+    <loc>https://nisihaoren.github.io/nwesite/posts/third/</loc>
   </url><url>
     <loc>https://nisihaoren.github.io/nwesite/tags/</loc>
   </url>
