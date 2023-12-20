@@ -1,6 +1,6 @@
 ---
 title: 'Home of the stars'
-author: 'BRJ&WBH'
+author: '白熔杰&王勃恒'
 date: '2023-12-12'
 featured_image: "/image/home.png"
 ---

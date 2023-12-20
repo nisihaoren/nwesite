@@ -1,6 +1,7 @@
 ---
 title: "Personal Journal"
 featured_image: "/image/zhaji.jpg"
+author: '白熔杰'
 ---
 ## “遇见星星”
 ### “爱”的天空让星星更加耀眼
