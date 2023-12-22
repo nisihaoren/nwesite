@@ -1,6 +1,6 @@
 ---
 title: "Personal Journal"
-featured_image: "/image/zhaji.jpg"
+featured_image: "/image/me.png"
 author: '白熔杰'
 ---
 ## “遇见星星”
